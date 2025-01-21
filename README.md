@@ -50,11 +50,4 @@ Following files has been included as a part of solutions:
   5. loan.zip File
 
 ## Contact
-Created by [@githubusername] - feel free to contact me!
-
-
-<!-- Optional -->
-<!-- ## License -->
-<!-- This project is open source and available under the [... License](). -->
-
-<!-- You don't have to include all sections - just the one's relevant to your project -->
+Created by [@chetansonigara05] - feel free to contact me!
